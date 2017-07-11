@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">InsuranceCo</string>
+    <string name="title_car_activity">Cars</string>
+    <string name="action_settings">Generate Report</string>
+    <string name="label_car_info">Car Info</string>
+    <string name="label_licence_plate">Licence Plate</string>
+    <string name="label_car_brand">Brand</string>
+    <string name="label_car_model">Model</string>
+    <string name="title_new_car">New Car</string>
+    <string name="title_new_event">New Event</string>
+    <string name="title_add_cause">Add Cause</string>
+    <string name="title_add_attach">Add Attachment</string>
+    <string name="title_view_event">Event Details</string>
+    <string name="label_save">Save</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_confirm">Confirm</string>
+    <string name="label_delete">Delete</string>
+    <string name="title_activity_calendar">View Events</string>
+    <string name="title_activity_day_detail">All Events</string>
+    <string name="label_event_info">Event Info</string>
+    <string name="label_date">Date</string>
+    <string name="label_related_cause">Related Cause</string>
+    <string name="label_attachments">Attachments</string>
+</resources>
